@@ -9,3 +9,8 @@ Articles written on dev.to
 - [VS Code Extension - Render Process Diagrams with bpmn.io](https://dev.to/pinussilvestrus/vs-code-extension-render-process-diagrams-with-bpmn-io-39ab) (30-09-2019)
 - [Building a honkify extension for bpmn-js](https://dev.to/pinussilvestrus/building-a-honkify-extension-for-bpmn-js-2f7n) (03-010-2019)
 - [A Lightweight React Library for creating clickable Prototypes](https://dev.to/pinussilvestrus/a-lightweight-react-library-for-creating-clickable-prototypes-2i68) (19-12-2019)
+
+
+**2020**
+
+- [Creating Demos with Svelte - Lessons Learned](https://dev.to/pinussilvestrus/creating-demos-with-svelte-2gem) (18-03-2020)
