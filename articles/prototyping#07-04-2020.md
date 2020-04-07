@@ -31,6 +31,11 @@ Once we have to tackle a bigger problem, about which we do not know much yet, it
 
 ...from sketch to demo...
 
+![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/14846d35rp5w2m4mky76.jpg)
+
+![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/hdmg5httc0k4a3dc206o.png)
+
+
 ### It's not a feature branch
 
 ...do not build prototypes on the real codebase...
