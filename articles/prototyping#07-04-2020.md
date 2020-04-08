@@ -23,13 +23,13 @@ Once we have to tackle a bigger problem, about which we do not know much yet, it
 
 Before creating a demo showcase, it's necessary to know a particular use case you want to test. Not every scenario is suitable for creating a prototype for it. Most bug fixes and feature requests are quite trivial in the end. Once you don't know how the feature would look in the end, maybe because there wasn't built something like that before or there are a bunch of possible solutions, it's a perfect starting point to think about creating a prototype.
 
-There will be a dedicated chapter for that point, but: Don't start with too many scenarios. Try to think about the basic user story you want to solve. Is there a particular problem your users face multiple times? Is there a specific request your application should serve. Before you begin, try to create a basic user journey. After you created that one, try to think about variable routes the journey could take. Once you know the basic scenario, it will be easier to define a specific interaction for the prototype.
+There will be a dedicated chapter for that point, but: Don't start with too many scenarios. Try to think about the **basic user story** you want to solve. Is there a particular problem your users face multiple times? Is there a specific request your application should serve. Before you begin, try to create a basic user journey. After you created that one, try to think about variable routes the journey could take. Once you know the basic scenario, it will be easier to define a specific interaction for the prototype.
 
 I can recommend [this blog post](https://uxplanet.org/a-beginners-guide-to-user-journey-mapping-bd914f4c517c) for first guidance on how to create pleasant user journeys.
 
 ### It's about Innovation + Inspiration
 
-It's okay not always to create entirely new functionality. Although the problem would be huge and uncertain in its possible solutions, most stuff was already solved out there. Inspiration is not cheating. The users are often used to certain ways of solving different problems. 
+It's okay not always to create entirely new functionality. Although the problem would be huge and uncertain in its possible solutions, most stuff was already solved out there. Inspiration is not cheating. The users are often used in certain ways of solving different problems. 
 
 That's why it makes total sense to take solutions from other applications and check whether you can bring it inside your prototype. In some cases, there might be standards that give a basic guideline on how to solve problems. Doing such a **pre-research** often helped me before getting started with the ideation step.
 
@@ -67,7 +67,7 @@ I lately wrote a [blog article about creating demos with Svelte](https://dev.to/
 
 That one should be clear now. Once you know the user story of your prototype, try to keep it in that scope. Furthermore, don't intend to reinvent the wheel. You need an autocomplete input? Try to integrate a working library for that. Modals, icons, drag and drop functionality? Try not to build it yourself. Of course, there will be cases where you have to create something from scratch again so that these components fit your needs. Most of the cases, it's okay to re-use certain stuff.
 
-Additionally, do not implement all edge cases inside your prototype. Focus on the problem your demo should solve. Do not get stuck on extra cases that might affect you in the future. The primary purpose should be to verify your idea with the user. Make sure you give your testing person a scenario to click through. 
+Additionally, do not implement all edge cases inside your prototype. **Focus on the problem your demo should solve**. Do not get stuck on extra cases that might affect you in the future. The primary purpose should be to verify your idea with the user. Make sure you give your testing person a scenario to click through. 
 
 That's the most crucial stuff which should work smoothly. Any extra stuff is a bonus. Often the case, crazy other functionality might also distract the testing user from the main focus, which would have a negative effect as well.
 
@@ -91,7 +91,7 @@ For us, it was also a good idea to implement variant toggles inside the demo app
 
 The first goal should be to make learning, as I described before. After you did some user tests, went over several iterations, you might have a solution in which you're confident it will solve your problem in the final application. Will you implement all features of your demo? **No, of course, not**. 
 
-After the concept phase, it's time to reflect. Pick the best aspects and think about how to bring them into your real application. Scope your findings and start with the low-hanging fruits. As the prototyping phase was a time of iterations, the implementation phase should follow the same guideline. 
+After the concept phase, it's time to reflect. Pick the best aspects and think about how to bring them into your real application. Scope your findings and start with the low-hanging fruits. As the prototyping phase was a time of iterations, the implementation phase should follow the same guideline.
 
 ### Summary
 
@@ -106,7 +106,7 @@ To summarize, I made the following lessons learned while creating the DMN protot
 * Think about variations
 * Keep the best
 
-You might not implement all stuff from your demo, although the user liked them a lot, due to technical or time limitations. That's okay, and you won't throw them away, keep them for coming releases. The prototyping phase shows you many aspects you didn't think about before. If there's one suitable solution, in the end, it was highly worth it.
+You might not implement all stuff from your demo, although the user liked them a lot, due to technical or time limitations. That's okay, and you won't throw them away, keep them for coming releases. The prototyping phase shows you many aspects you didn't think about before. If there's one suitable solution, in the end, it was highly worth it. The demo will keep and acts as interactable guidance for the final implementation.
 
 For me, it was the first time dealing with prototyping and creating demos in a more extended period. It came out the field of [UX engineering](https://dev.to/emmabostian/ux-engineering-3hem) as something very valuable during the development cycle, especially when the problems got bigger with a higher amount of uncertainty.
 
