@@ -91,7 +91,7 @@ For us, it was also a good idea to implement variant toggles inside the demo app
 
 The first goal should be to make learning, as I described before. After you did some user tests, went over several iterations, you might have a solution in which you're confident it will solve your problem in the final application. Will you implement all features of your demo? **No, of course, not**. 
 
-After the concept phase, it's time to reflect. Pick the best aspects and think about how to bring them into your real application. Scope your findings and start with the low-hanging fruits. As the prototyping phase was a time of iterations, the implementation phase should follow the same guideline.
+After the concept phase, it's time to reflect. Pick the best aspects and think about how to bring them into your real application. Scope your findings and start with the low-hanging fruits. As the prototyping phase was a time of iterations, the implementation phase should follow the same guideline. 
 
 ### Summary
 
@@ -106,9 +106,9 @@ To summarize, I made the following lessons learned while creating the DMN protot
 * Think about variations
 * Keep the best
 
-You might not implement all stuff from your demo, although the user liked them a lot, due to technical or time limitations. That's okay, and you won't throw them away, keep them for coming releases. The prototyping phase shows you many aspects you didn't think about before. If there's one suitable solution, in the end, it was highly worth it. The demo will keep and acts as interactable guidance for the final implementation.
+You might not implement all stuff from your demo, although the user liked them a lot, due to technical or time limitations. That's okay, and you won't throw them away, keep them for coming releases. The prototyping phase shows you many aspects you didn't think about before. If there's one suitable solution, in the end, it was highly worth it.
 
-For me, it was the first time dealing with prototyping and creating demos in a more extended period. It came out the field of [UX engineering](https://dev.to/emmabostian/ux-engineering-3hem) as something very valuable during the development cycle, especially when the problems got bigger with a higher amount of uncertainty.
+For me, it was the first time dealing with prototyping and creating demos in a more extended period. It came out the field of Usability Engineering as something very valuable during the development cycle, especially when the problems got bigger with a higher amount of uncertainty.
 
 I tried to link some other interesting blog posts inside my writings. If you have any other thoughts, opinions, or questions, feel free to reach out!
 
