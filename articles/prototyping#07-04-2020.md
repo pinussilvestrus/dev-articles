@@ -13,7 +13,7 @@ This allowed us experimenting, elaborating, and iterating a lot with the tremend
 
 Generally saying we moved along an _Agile Prototyping_ process while creating our prototypes. I won't go too much into detail about that topic, [this blog post](https://www.atlassian.com/blog/agile/agile-design-prototype) explains it quite good.
 
-What we keen to do all the time was to improve our prototypes with each iteration. Beginning with the most important or most obvious feature, we tried to add more and more to the actual demo, until we were sure the original feature fits our needs. This included a couple of user tests to verify our assumptions, or to improve the demo with our findings. 
+What we keen to do all the time was to improve our prototypes with each iteration. Beginning with the most important or most obvious feature, we tried to add more and more to the actual demo, until we were sure the original feature fits our users needs. This included a couple of user tests to verify our assumptions, or to improve the demo with our findings. 
 
 Starting with a demo instead of a real implementation gave us enough flexibility to try out multiple things for a specific problem. We were simply not coupled to internal conventions `dmn-js` would have given us.
 
@@ -35,13 +35,13 @@ That's why it makes total sense to take solutions from other applications and ch
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/jw8kjwow18au3dp87q6s.png)
 
-Also, you have to deal that you're prototype solutions follow the design guidelines of your application. It depends on the use case, but creating a sidebar control panel when you only use popup modals in the current state might not be a good idea.
+Also, you have to deal that your prototype solutions follow the design guidelines of your application. It depends on the use case, but creating a sidebar control panel when you only use popup modals in the current state might not be a good idea.
 
 This should not hold from bringing the innovation into your work. Creating prototypes is the perfect time to go crazy. Whenever it's suitable, think about unusual solutions. Whether they are ideal in the end, you'll find it out in the user testing.
 
 ### Start with a pen
 
-Don't start coding! As it is best practice to not fixing the bug right away, but first [shaping the problem](https://basecamp.com/shapeup), you should do the same with your prototype. Depending on how big the problem is, start with a low-fidelity prototype like **sketches**. So, pen and paper!
+Don't start coding! As it is best practice to not fixing the bug right away, but first [shaping the problem](https://basecamp.com/shapeup), you should do the same with your prototype. Depending on how big the problem is, start with  **sketches** or low-fidelity prototypes. So, pen and paper!
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/14846d35rp5w2m4mky76.jpg)
 
