@@ -2,6 +2,7 @@
 title: Creating the unknown - What and what not to build in efficient prototypes
 published: false
 description: Lessons Learned in the DMN Innovation Process
+cover_image: https://dev-to-uploads.s3.amazonaws.com/i/14846d35rp5w2m4mky76.jpg
 tags: #webdev #ux #prototyping
 ---
 
@@ -33,7 +34,7 @@ It's okay not always to create entirely new functionality. Although the problem 
 
 That's why it makes total sense to take solutions from other applications and check whether you can bring it inside your prototype. In some cases, there might be standards that give a basic guideline on how to solve problems. Doing such a **pre-research** often helped me before getting started with the ideation step.
 
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/jw8kjwow18au3dp87q6s.png)
+![](https://dev-to-uploads.s3.amazonaws.com/i/jw8kjwow18au3dp87q6s.png)
 
 Also, you have to deal that your prototype solutions follow the design guidelines of your application. It depends on the use case, but creating a sidebar control panel when you only use popup modals in the current state might not be a good idea.
 
@@ -43,7 +44,7 @@ This should not hold from bringing the innovation into your work. Creating proto
 
 Don't start coding! As it is best practice to not fixing the bug right away, but first [shaping the problem](https://basecamp.com/shapeup), you should do the same with your prototype. Depending on how big the problem is, start with  **sketches** or low-fidelity prototypes. So, pen and paper!
 
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/14846d35rp5w2m4mky76.jpg)
+![](https://dev-to-uploads.s3.amazonaws.com/i/14846d35rp5w2m4mky76.jpg)
 
 Try to take some time and illustrate as many solutions as possible. Also, try not to doing it alone. Spreading and sharing ideas helps to create synergies. As one of the dozen possible methods to drive the sketching and ideation phase, I can recommend to try out [Design Studio](https://www.edenspiekermann.com/insights/working-with-design-studios/).
 
@@ -51,7 +52,7 @@ Starting with a sketch helps to express and change ideas more frequently. Since 
 
 After several iterations and once we were confident we found the right solution, we went into creating paper prototypes or quickly starting with the actual demo, depending on your needs. Sketches have a lack of illustrating interactions. Combining sketches to a paper prototype enables the chance to bring the idea to life.
 
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/hdmg5httc0k4a3dc206o.png)
+![](https://dev-to-uploads.s3.amazonaws.com/i/hdmg5httc0k4a3dc206o.png)
 
 Btw., for creating sketches, I can really recommend trying out [Excalidraw](https://excalidraw.com/). Of course, starting with a pen as a first step is indispensable. But then converting more shaped ideas into a virtual sketch helps to illustrate some aspects more deeply.
 
@@ -66,6 +67,8 @@ I lately wrote a [blog article about creating demos with Svelte](https://dev.to/
 ### Keep it simple
 
 That one should be clear now. Once you know the user story of your prototype, try to keep it in that scope. Furthermore, don't intend to reinvent the wheel. You need an autocomplete input? Try to integrate a working library for that. Modals, icons, drag and drop functionality? Try not to build it yourself. Of course, there will be cases where you have to create something from scratch again so that these components fit your needs. Most of the cases, it's okay to re-use certain stuff.
+
+![](https://dev-to-uploads.s3.amazonaws.com/i/u4p0julbmmkyhfm5jqu8.gif)
 
 Additionally, do not implement all edge cases inside your prototype. **Focus on the problem your demo should solve**. Do not get stuck on extra cases that might affect you in the future. The primary purpose should be to verify your idea with the user. Make sure you give your testing person a scenario to click through. 
 
