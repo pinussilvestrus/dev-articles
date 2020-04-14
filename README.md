@@ -14,3 +14,4 @@ Articles written on dev.to
 **2020**
 
 - [Creating Demos with Svelte - Lessons Learned](https://dev.to/pinussilvestrus/creating-demos-with-svelte-2gem) (18-03-2020)
+- [Creating the unknown - What and what not to build in efficient prototypes](https://dev.to/pinussilvestrus/creating-the-unknown-what-and-what-not-to-build-in-efficient-prototypes-467p)(14-04-2020)
