@@ -50,6 +50,8 @@ With this saying, the double diamond is worth to be mentioned. Despite [this mod
 
 The problem: sometimes it feels like a waterfall. Defining the problem, then defining the requirements, then creating the solution. That's indeed not ideal. The solution space is always re-opening the space of the problem. Therefore it's recommended to take steps back, evaluate the problem, and re-shape it. You may name those problems to be "wicked", Horst Rittel did [a lot of ground keeping work](https://nnsi.northwestern.edu/wicked-problems-what-are-they-and-why-are-they-of-interest-to-nnsi-researchers/) in this regard.
 
+By the way: if you also love those diagrams about the double diamond and design thinking, give this website a try: https://designfuckingthinking.tumblr.com/.
+
 ### Find the Big Why
 
 "Users have to be amazed by the product", that's the spirit of Amazon's working backward method. That's far from being easy. This requires a lot of research to get the real *needs* of a user. That's not a high-level exercise, it really goes into the psychology of users while working with our products.
