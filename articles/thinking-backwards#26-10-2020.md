@@ -33,6 +33,8 @@ What's even more important is the *shaping* part at the beginning. Avoiding circ
 
 In the end, it's a matter of avoiding waste. Taking more time to *really understand*  the problem and identify the core need will produce waste as well. That's okay if you compare the potential waste and problems of redefining requirements and refactoring huge parts of your implementation at the very end of the development lifecycle.
 
+The Shape Up "manifesto" from Basecamp itself has this nice sentence: "If we don't make trade-offs up front by shaping, the universe will force us to make trade-offs later in a mad rush".
+
 Of course, there will be cases where you feel spending more and more time shaping a topic will cause more effort than needed. What's really important in this phase is to gather *learnings* and create *focus* on the most relevant aspects. 
 
 Afterward, it will be much easier to simply get the stuff done, without getting lost in circles. Build the one thing which matters and do it right. Which does not mean that circles in the implementation phase are bad. But that's another topic.
