@@ -33,7 +33,7 @@ What's even more important is the *shaping* part at the beginning. Avoiding circ
 
 In the end, it's a matter of avoiding waste. Taking more time to *really understand*  the problem and identify the core need will produce waste as well. That's okay if you compare the potential waste and problems of redefining requirements and refactoring huge parts of your implementation at the very end of the development lifecycle.
 
-The Shape Up "manifesto" from Basecamp itself has this nice sentence: "If we don't make trade-offs up front by shaping, the universe will force us to make trade-offs later in a mad rush".
+The Shape Up "manifesto" from Basecamp itself has this nice sentence: "If we don't make trade-offs upfront by shaping, the universe will force us to make trade-offs later in a mad rush".
 
 Of course, there will be cases where you feel spending more and more time shaping a topic will cause more effort than needed. What's really important in this phase is to gather *learnings* and create *focus* on the most relevant aspects. 
 
@@ -41,16 +41,46 @@ Afterward, it will be much easier to simply get the stuff done, without getting 
 
 ### Begin with the problem - jump back if necessary
 
+Shaping comes along with thinking about the problem in a deeper manner. I tend to start with the following question: what is the main problem we want to tackle and why will users be *amazed* by it? That's not easy for sure and depends on a lot of prerequisites and hypotheses you still have to find out.
+
 ![double diamond](https://dev-to-uploads.s3.amazonaws.com/i/jdr9qbp4tj9e1vqkcbdg.jpeg)
 <figcaption>The Double Diamond of creating solutions, source: https://www.smashingmagazine.com/2020/05/research-study-double-diamond-model</figcaption>
 
-Rittel?
-...
+With this saying, the double diamond is worth to be mentioned. Despite [this model might have some weaknesses](https://uxdesign.cc/why-the-double-diamond-isnt-enough-adaa48a8aec1), it shows a very relevant aspect: all the research, all the shaping you do in regards to find a solution, it all aims to find the main problem and to deliver a focus. 
+
+The problem: sometimes it feels like a waterfall. Defining the problem, then defining the requirements, then creating the solution. That's indeed not ideal. The solution space is always re-opening the space of the problem. Therefore it's recommended to take steps back, evaluate the problem, and re-shape it. You may name those problems to be "wicked", Horst Rittel did [a lot of ground keeping work](https://nnsi.northwestern.edu/wicked-problems-what-are-they-and-why-are-they-of-interest-to-nnsi-researchers/) in this regard.
+
 ### Find the Big Why
 
-...
-### Begin with the onboarding
+"Users have to be amazed by the product", that's the spirit of Amazon's working backward method. That's far from being easy. This requires a lot of research to get the real *needs* of a user. That's not a high-level exercise, it really goes into the psychology of users while working with our products.
 
-...
+Thinking backward about the product which needs to be build creates a new perspective. We ask: what makes our users happy? Is there a particular need our product needs to serve?
+
+I don't want to go too much into detail. What's important is that we can directly influence the way users adopt new products and features by building them in the way they deal with basic psychological needs. 
+
+Don't understand me wrong, it's absolutely not about creating an interface which "looks nice" and the user enjoys from a visual perspective. It's about functionality. 
+
+That's the "Big Why". [Hassenzahl and Diefenbach](http://www.experienceandinteraction.com/tools) did a lot of research on this topic.
+
+### It does not have to be a press release
+
+It can be anything that is not a technical prototype nor a design sketch. To give some inspirations 
+
+- write a letter from a user
+- write a product review from a user
+- create a promotion video
+- create a user onboarding
+- create a getting started guide
+
+![letter from a user](https://dev-to-uploads.s3.amazonaws.com/i/dttsozvr4bb32ppw5nro.png)
+<figcaption>An imaginary letter from a user I recently created in a UX Thinking training (German). The project scope was an application for shared traveling.</figcaption>
+
+At Camunda we recently did the last thing. The project was about creating an embeddable library that our customers can easily integrate into their existing Javascript applications.
+
+It helped a lot to get an understanding of what the end-users will see at the very first. What would they expect? What are the actual steps they need to do to integrate our library? We took this sketch of a getting started guide, reflect & iterate on it with customers, and came closer to real requirements, step by step.
+
+This perspective helped on focussing on the most important aspects: What should the user be able to achieve and how can we provide it in the easiest way. Remember: the user has to be amazed.
+
 ### Summary
 
+...
