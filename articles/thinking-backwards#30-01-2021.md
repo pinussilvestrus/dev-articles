@@ -1,26 +1,26 @@
 ---
 title: "Thinking Backward - or: searching for the Big Why"
-published: false
+published: true
 description: How thinking and working backward gets your product-work focused.
-tags: #productivity #product #agile 
-//cover_image: https://direct_url_to_image.jpg
+tags: #productivity #product #agile #development
+cover_image: https://dev-to-uploads.s3.amazonaws.com/i/mr2mj82ajv38n3fc7zs5.png
 ---
 
-Where to start? Every product work begins with this question; let it be ideating a completely new product idea, creating a simple feature enhancement, or fixing a crucial bug.
+Where to start? Every product work begins with questions like that, no matter if it's ideating a completely new product idea, creating a simple feature enhancement, or fixing a crucial bug.
 
 I once wrote [another blog post](https://dev.to/pinussilvestrus/creating-the-unknown-what-and-what-not-to-build-in-efficient-prototypes-467p) about prototyping and how to use it to tackle uncertain problems. 
 
-At [Camunda](http://camunda.com/) we follow the strategy to keep our work focused. One thing at a time, but doing this one right. That's great, but how do you know what this *one thing* is?
+At [Camunda](http://camunda.com/) we follow the mindset to keep our work focused. One thing at a time, but doing this one right. That's great, but how do you know what this *one thing* is?
 
-One principle my team more or less actively used in the past is to *work backward*. This could sound like guessing the right solution, right? Let me explain.
+One principle my team more or less actively used in the past is to *work backward*. You might say it sounds like guessing the right solution. Let me explain.
 
 ### Working Backwards © Amazon
 
-The idea of working backward is not new, [Amazon "introduced" it a while ago](https://www.inc.com/justin-bariso/amazon-uses-a-secret-process-for-launching-new-ideas-and-it-can-transform-way-you-work.html). At the very beginning of developing new products, the product manager, or even better the team, writes an internal press release about the finished product. Before creating a single user story, without writing a single line of code.
+The idea of working backward isn't new, [Amazon "introduced" it a while ago](https://www.inc.com/justin-bariso/amazon-uses-a-secret-process-for-launching-new-ideas-and-it-can-transform-way-you-work.html). At the very beginning while developing new products, the product manager, or even better the team, writes an internal press release about the finished product. Before creating a single user story, without writing a single line of code.
 
 The press release should be customer focussed, stating why current solutions are failing and why users will be amazed by the new product. Having this as a "solution sketch" they start iterating, keep on improving it. The key here: "Iterating on a press release is a lot less expensive than iterating on the product itself (and quicker!)" (Ian McAllister). 
 
-I never wrote such a press release as the working backward method requires. What's important to me here are the principles that are behind. That's why I'd rather call it *Thinking Backwards*. It does not start with a press release, an MVP, a mockup, or a prototype. It starts with thinking.
+I never wrote such a press release as the working backward method requires. What's important to me here are the principles that are behind. That's why I'd rather call it *Thinking Backward*. It does not start with a press release, an MVP, a mockup, or a prototype. It starts with thinking.
 
 ### It's all about shaping
 
@@ -29,15 +29,15 @@ I never wrote such a press release as the working backward method requires. What
 ![shape up](https://dev-to-uploads.s3.amazonaws.com/i/mr2mj82ajv38n3fc7zs5.png)
 <figcaption>Shape up phases by Basecamp, source: https://basecamp.com/shapeup/4.1-appendix-02</figcaption>
 
-What's even more important is the *shaping* part at the beginning. Avoiding circles in the development phase is a key part of our work at Camunda. 
+What's even more important is the *shaping* part at the beginning. Avoiding circles in the development phase is a key part of my personal approach to software development. 
 
-In the end, it's a matter of avoiding waste. Taking more time to *really understand*  the problem and identify the core need will produce waste as well. That's okay if you compare the potential waste and problems of redefining requirements and refactoring huge parts of your implementation at the very end of the development lifecycle.
+In the end, it's a matter of avoiding waste. Taking more time to *really understand*  the problem and identify the core need will produce waste as well. That's okay if you compare the potential waste and problems of redefining requirements and refactoring huge parts of your code at the very end of the development lifecycle.
 
 The Shape Up "manifesto" from Basecamp itself has this nice sentence: "If we don't make trade-offs upfront by shaping, the universe will force us to make trade-offs later in a mad rush".
 
-Of course, there will be cases where you feel spending more and more time shaping a topic will cause more effort than needed. What's really important in this phase is to gather *learnings* and create *focus* on the most relevant aspects. 
+Of course, there will be cases where you feel spending more and more time shaping a topic will cause more effort than needed. Don't come to an end, if taking the bad parts, could even cause mental problems. What's really important in this phase is to gather *learnings* and create *focus* on the most relevant aspects. 
 
-Afterward, it will be much easier to simply get the stuff done, without getting lost in circles. Build the one thing which matters and do it right. Which does not mean that circles in the implementation phase are bad. But that's another topic.
+Afterward, it will be much easier to simply get the stuff done, without getting lost in circles. Build the one thing which matters and do it right. And get this thing done. Which does not mean that circles in the implementation phase are bad. But that's another topic.
 
 ### Begin with the problem - jump back if necessary
 
@@ -56,13 +56,13 @@ By the way: if you also love those diagrams about the double diamond and design 
 
 "Users have to be amazed by the product", that's the spirit of Amazon's working backward method. That's far from being easy. This requires a lot of research to get the real *needs* of a user. That's not a high-level exercise, it really goes into the psychology of users while working with our products.
 
-Thinking backward about the product which needs to be build creates a new perspective. We ask: what makes our users happy? Is there a particular need our product needs to serve?
+Thinking backward about the product which aims to be build creates new perspectives. We ask: what makes our users happy? Is there a particular need our product needs to serve?
 
 I don't want to go too much into detail. What's important is that we can directly influence the way users adopt new products and features by building them in the way they deal with basic psychological needs. 
 
-Don't understand me wrong, it's absolutely not about creating an interface which "looks nice" and the user enjoys from a visual perspective. It's about functionality. 
+Don't understand me wrong, it's absolutely not about creating an interface that "looks nice" and the user enjoys from a visual perspective. It's about functionality. 
 
-That's the "Big Why". [Hassenzahl and Diefenbach](http://www.experienceandinteraction.com/tools) did a lot of research on this topic.
+That's the "Big Why". [Hassenzahl and Diefenbach](http://www.experienceandinteraction.com/tools) did a lot of known worth research on this topic.
 
 ### It does not have to be a press release
 
@@ -77,7 +77,7 @@ It can be anything that is not a technical prototype nor a design sketch. To giv
 ![letter from a user](https://dev-to-uploads.s3.amazonaws.com/i/dttsozvr4bb32ppw5nro.png)
 <figcaption>An imaginary letter from a user I recently created in a UX Thinking training (German). The project scope was an application for shared traveling.</figcaption>
 
-At Camunda we recently did the last thing. The project was about creating an embeddable library that our customers can easily integrate into their existing Javascript applications.
+At Camunda we recently did the last thing. One project was about creating an embeddable library that our customers can easily integrate into their existing Javascript applications.
 
 It helped a lot to get an understanding of what the end-users will see at the very first. What would they expect? What are the actual steps they need to do to integrate our library? We took this sketch of a getting started guide, reflect & iterate on it with customers, and came closer to real requirements, step by step.
 
@@ -85,4 +85,4 @@ This perspective helped on focussing on the most important aspects: What should 
 
 ### Summary
 
-...
+If you get one thing about the words above, then it should be to keep your work focused. Don't waste your time with features your users don't care about. Take the time to really understand the problem, find out what your users will enjoy the most, and simply get these things done. 
