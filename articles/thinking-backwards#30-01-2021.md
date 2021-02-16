@@ -10,6 +10,8 @@ Where to start? Every product work begins with questions like that, no matter if
 
 I once wrote [another blog post](https://dev.to/pinussilvestrus/creating-the-unknown-what-and-what-not-to-build-in-efficient-prototypes-467p) about prototyping and how to use it to tackle uncertain problems. 
 
+{% link https://dev.to/pinussilvestrus/creating-the-unknown-what-and-what-not-to-build-in-efficient-prototypes-467p %}
+
 At [Camunda](http://camunda.com/) we follow the mindset to keep our work focused. One thing at a time, but doing this one right. That's great, but how do you know what this *one thing* is?
 
 One principle my team more or less actively used in the past is to *work backward*. You might say it sounds like guessing the right solution. Let me explain.
@@ -81,7 +83,7 @@ At Camunda we recently did the last thing. One project was about creating an emb
 
 It helped a lot to get an understanding of what the end-users will see at the very first. What would they expect? What are the actual steps they need to do to integrate our library? We took this sketch of a getting started guide, reflect & iterate on it with customers, and came closer to real requirements, step by step.
 
-This perspective helped on focussing on the most important aspects: What should the user be able to achieve and how can we provide it in the easiest way. Remember: the user has to be amazed.
+This perspective helped in focussing on the most important aspects: What should the user be able to achieve and how can we provide it in the easiest way. Remember: the user has to be amazed.
 
 ### Summary
 
