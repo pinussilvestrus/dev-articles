@@ -19,3 +19,4 @@ Articles written on dev.to
 **2021**
 
 - [Thinking Backward - or: searching for the Big Why](https://dev.to/pinussilvestrus/thinking-backward-or-searching-for-the-big-why-44h) (30-01-2021)
+- [New version of postit-js got published](https://dev.to/pinussilvestrus/new-version-of-postit-js-got-published-2gnm/) (12-03-2021)
