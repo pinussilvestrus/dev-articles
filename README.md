@@ -20,3 +20,4 @@ Articles written on dev.to
 
 - [Thinking Backward - or: searching for the Big Why](https://dev.to/pinussilvestrus/thinking-backward-or-searching-for-the-big-why-44h) (30-01-2021)
 - [New version of postit-js got published](https://dev.to/pinussilvestrus/new-version-of-postit-js-got-published-2gnm/) (12-03-2021)
+- [use-spinner - Show loading spinners for your asynchronous calls](https://dev.to/pinussilvestrus/use-spinner-show-loading-spinners-for-your-asynchronous-calls-43o2) (03-04-2021)
